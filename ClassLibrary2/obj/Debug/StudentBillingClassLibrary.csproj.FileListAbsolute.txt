@@ -1,0 +1,9 @@
+C:\Users\Mark\Source\Repos\StudentBillingSolution\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Mark\Source\Repos\StudentBillingSolution\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Mark\Source\Repos\StudentBillingSolution\ClassLibrary2\obj\Debug\StudentBillingClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Source\Repos\StudentBillingSolution\ClassLibrary2\obj\Debug\StudentBillingClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Source\Repos\StudentBillingSolution\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Mark\Source\Repos\StudentBillingSolution\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Mark\Source\Repos\StudentBillingSolution\ClassLibrary2\bin\Debug\Dapper.Contrib.dll
+C:\Users\Mark\Source\Repos\StudentBillingSolution\ClassLibrary2\bin\Debug\Dapper.Contrib.Ext.dll
+C:\Users\Mark\Source\Repos\StudentBillingSolution\ClassLibrary2\bin\Debug\Dapper.dll
